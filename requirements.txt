@@ -1,0 +1,12 @@
+opencv-python
+numpy
+scikit-image
+scikit-learn
+torch
+torchvision
+tqdm
+Pillow
+matplotlib
+reportlab
+PyMuPDF
+streamlit
