@@ -28,20 +28,6 @@ A machine learning-based application that scans and translates ancient **palm le
 
 ---
 
-## 📂 Project Structure
-
-PalmLeaf-ML-Translator/
-├── images/ # Sample palm leaf manuscripts
-├── models/ # Trained OCR and translation models
-├── src/
-│ ├── preprocessing.py
-│ ├── ocr.py
-│ ├── translator.py
-│ ├── pdf_generator.py
-│ └── app.py
-├── requirements.txt
-├── README.md
-└── LICENSE
 
 ### Prerequisites
 
